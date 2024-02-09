@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    background-color: lightseagreen;
+    color: antiquewhite;
+    text-align: center;
+}
+.banner{
+    background-color: rosybrown;
+    color:antiquewhite ;
+    text-align: center;
+    height: 500px;
+}
+.about_image{
+    width: 50%;
+    height: 400px;
+    background-color: olive;
+    text-align: center;
+}
+.about_content{
+    width: 50%;
+    height: 400px;
+    background-color: bisque;
+    text-align: center;
+}
+.about{
+    display: flex;
+}
+.service{
+    display: flex;
+}
+.service_one{
+    width: 33.3%;
+    height: 300px;
+    background-color: coral;
+    text-align: center;
+    color: antiquewhite;
+}
+.service_two{
+    width: 33.3%;
+    height: 300px;
+    background-color: blueviolet;
+    text-align: center;
+    color: antiquewhite;
+}
+.service_three{
+    width: 33.3%;
+    height: 300px;
+    background-color: darkred;
+    text-align: center;
+    color: antiquewhite;
+}
+.works{
+    display: flex;
+}
+.works_one{
+    width: 25%;
+    height: 300px;
+    background-color: lightblue;
+    text-align: center;
+    color: crimson;
+}
+.works_two{
+    width: 25%;
+    height: 300px;
+    background-color: lightcoral;
+    text-align: center;
+    color: bisque;
+}
+.works_three{
+    width: 25%;
+    height: 300px;
+    background-color: darkcyan;
+    text-align: center;
+    color: beige;
+}
+.works_four{
+    width: 25%;
+    height: 300px;
+    background-color: darkmagenta;
+    text-align: center;
+    color: beige;
+}
+.footer{
+    background-color: black;
+    color: bisque;
+    height: 80px;
+    text-align: center;
+}
+.portfolio{
+    display: flex;
+}
+.left_side{
+    width: 50%;
+    height: 400px;
+    background-color: seagreen;
+}
+.right_side{
+    width: 50%;
+    height: 400px;
+    background-color: goldenrod;
+}
+.top{
+    height: 50%;
+    background-color: navy;
+    color: antiquewhite;
+    text-align: center;
+}
+.bottom{
+    height: 50%;
+    background-color: burlywood;
+    color: darkblue;
+    text-align: center;
+}
